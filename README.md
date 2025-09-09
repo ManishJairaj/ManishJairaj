@@ -10,18 +10,6 @@
 ## 🚀 About Me
 - 🎓 Student exploring **Computer Science & Engineering** concepts
 - 🧑‍💻 Interested in **AI/ML, Cloud Computing, and Startups**
-- 💭 Sharing thoughts on **tech, productivity, and fitness**
-- ⚡ Fun fact: I love mixing **coding + fitness + business ideas** 😄  
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: C, C++, Python, JavaScript  
-- **Frameworks & Tools**: React, Node.js, Express, Git/GitHub  
-- **Cloud & DevOps**: AWS, GCP (learning)  
-- **Databases**: MySQL, MongoDB  
-
----
 
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishJairaj&show_icons=true&theme=tokyonight)  
