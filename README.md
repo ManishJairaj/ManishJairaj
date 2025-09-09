@@ -18,7 +18,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: **manishjr66@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐦 [Twitter](https://twitter.com/yourprofile)  
 - 🌟 [Portfolio/Website](https://yourwebsite.com)  
