@@ -3,7 +3,7 @@
 
 💡 A passionate learner exploring **Software Development, AI/ML, and Cloud Computing**.  
 🎯 Currently working on building projects in **C++ | Python | Cloud | Web Dev**.  
-🌱 Always curious about **AI tools, startup ideas, and system design**.  
+🌱 Always curious about **AI tools, startup ideas**.  
 
 ---
 
