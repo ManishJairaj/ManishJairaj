@@ -10,18 +10,13 @@
 ## 🚀 About Me
 - 🎓 Student exploring **Computer Science & Engineering** concepts
 - 🧑‍💻 Interested in **AI/ML, Cloud Computing, and Startups**
-
-## 📊 GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishJairaj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishJairaj&layout=compact&theme=tokyonight)  
-
+  
 ---
 
 ## 🌐 Connect with Me
 - 📧 Email: **manishjr66@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)  
-- 🌟 [Portfolio/Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/manish-jairaj)    
+- 🌟 [Portfolio/Website](https://codolio.com/profile/manishjairaj)  
 
 ---
 
